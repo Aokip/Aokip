@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Patrick Aoki 👋
 
-![Aokip GitHub stats](https://github-readme-stats.vercel.app/api?username=aokip&show_icons=true&theme=merko)
 
 ### Desenvolvedor 💻
 
